@@ -12,7 +12,7 @@
 <title>To-Do List Application!!</title>
 <style>
 body {
-    background-color: lightgray;
+    background-color: green;
 }
 </style>
 </head>
